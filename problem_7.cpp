@@ -5,7 +5,7 @@ using namespace std;
 void num(int a)
 {
  
-    for (int i = a; i > 0; i--)
+    for (int i = a; i > -1; i--)
         cout << i <<endl;
  
 }
